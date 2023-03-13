@@ -1,5 +1,5 @@
 # POST-IT 
-here's a link to my database design
+here's a link to my database design https://drive.google.com/file/d/1MyiKeVQKqdSni_w4CNXmrBmCEIQj73EP/view?usp=sharing
 
 Postit is a simple social media app where users can create and share posts called "post-its". A post-it is a single post that can contain text and other media such as images, videos, and links. Other users can view and reply to post-its, similar to comments on a post.
 
